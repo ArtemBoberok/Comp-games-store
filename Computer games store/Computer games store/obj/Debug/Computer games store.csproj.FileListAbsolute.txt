@@ -1,0 +1,14 @@
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\bin\Debug\Computer games store.exe.config
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\bin\Debug\Computer games store.exe
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\bin\Debug\Computer games store.pdb
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Computer games store.csproj.AssemblyReference.cache
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Computer_games_store.Form1.resources
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Computer_games_store.Properties.Resources.resources
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Computer games store.csproj.GenerateResource.cache
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Computer games store.csproj.CoreCompileInputs.cache
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Computer games store.exe
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Computer games store.pdb
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Computer_games_store.Form2.resources
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Computer_games_store.Form3.resources
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Interop.Office.dll
+X:\МДК.01.01 Разр. прог. мод\Computer games store\Computer games store\obj\Debug\Computer games store.csproj.ResolveComReference.cache
